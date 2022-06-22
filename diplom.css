@@ -1,0 +1,23 @@
+body {
+  background-color: lightpink;
+}
+.btn-outline-danger {
+  color: lightcoral;
+  border-color: lightcoral;
+}
+header{
+  background-color:violet;
+}
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: aliceblue;
+  text-decoration: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+.btn {
+  line-height: 1;
+}
+.flex {
+  display: flex;
+}
